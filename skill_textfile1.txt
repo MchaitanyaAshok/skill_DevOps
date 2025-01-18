@@ -1,0 +1,2 @@
+Hello, welcome to Cloud_DevOps Skill session-1
+This is the first program in EC2 skill1
